@@ -10,7 +10,7 @@ html{
 
 .pantalla{
     max-width: 375px;
-    height: 840px;
+    height: 810px;
     margin: auto;
-    background-color: rgb(255, 242, 226);
+    /* background-color: rgb(255, 242, 226); */
 }
