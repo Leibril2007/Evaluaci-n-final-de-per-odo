@@ -1,0 +1,25 @@
+header{
+    padding: 1rem;
+    /* background-color: lightblue; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.exam{
+    width: 10rem;
+    height: 2.5rem;
+    background-color: black;
+    border-radius: 0.5rem;
+
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+}
+
+.user{
+    font-size: 1.6rem;
+    font-weight: bold;
+}

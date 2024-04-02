@@ -1,0 +1,23 @@
+.sec3{
+    padding: 1rem;
+}
+
+.contenedor3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.cuadSec3{
+    width: 10rem;
+    height: 12rem;
+    background-color: lightseagreen;
+    border-radius: 0.5rem;
+    border: 2px solid black;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

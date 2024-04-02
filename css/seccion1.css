@@ -1,0 +1,30 @@
+.sec1{
+    /* background-color: lightcoral; */
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+.primerTit{
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.cuadritos{
+    width: 7rem;
+    height: 7rem;
+    background-color: lightgreen;
+    border-radius: 1rem;
+    border: 2px solid black;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

@@ -1,0 +1,24 @@
+.sec2{
+    padding: 1rem;
+}
+
+.contenedor2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.cuadSec2{
+    width: 20rem;
+    height: 7rem;
+    background-color: lightpink;
+    border-radius: 1rem;
+    border: 2px solid black;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
